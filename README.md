@@ -6,4 +6,4 @@
 
 <hr />
 
-- Desafio prático realizado para turma 20 de FrontEnd da Reprograma.
+- Desafio prático realizado para turma 23 da Reprograma.

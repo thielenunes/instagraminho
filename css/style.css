@@ -77,14 +77,14 @@ body {
 }
 
 .instagram-login {
-    background-color: #0095f6;
+    background-color: #bf48ad;
     color: #ffffff;
     padding: 8px;
     border-radius: 4px;
 }
 
 .instagram-logout {
-    color: #0095f6;
+    color: #bf48ad;
     margin-top: 1rem;
 }
 
@@ -93,7 +93,7 @@ body {
 }
 
 .link-blue {
-    color: #0095f6;
+    color: #bf48ad;
 }
 
 .get-the-app {
@@ -113,11 +113,23 @@ body {
     padding: 1rem;
 }
 
+
 .app-download {
     height: 3rem;
     width: 10rem;
     background-size: cover;
 }
+
+button{
+    background-color: #fff;
+    color: #bf48ad;
+    border-color: #c8a2c8;
+    border-radius: 5px;
+    font-size: 10pt;
+    padding: 5px;
+    cursor: pointer;
+}
+
 
 .app-download:nth-child(1) {
     background-image: url('./img/apple-button.png');

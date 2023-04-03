@@ -56,6 +56,13 @@ body {
     border: 1px solid lightgray;
 }
 
+.button {
+ width: 150px;
+ display: flex;
+ justify-content: ;
+ gap: 15px;
+}
+
 .group:nth-child(1) {
     min-height: 19rem;
 }
@@ -155,4 +162,5 @@ body {
     .group {
         border: 1px solid transparent;
     }
+
 }
